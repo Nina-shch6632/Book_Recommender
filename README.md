@@ -1,5 +1,4 @@
 **Book Recommender System**
-
 This project aims to develop a sophisticated book recommendation system using a variety of advanced tools and technologies. The data utilized in this study is sourced from the Book Recommendation Dataset on Kaggle, ensuring a rich and diverse set of user-item interactions for robust analysis and model training.
 
 **Project Overview**
